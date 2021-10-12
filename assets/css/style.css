@@ -1,0 +1,446 @@
+.header {
+    padding: 10px;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(5, 84, 84);
+    background-color:gold;
+    
+  }
+  .lime{
+      background-color: darkgray;
+  }
+  .lime.accent-2{
+      background-color: darkgray;
+  }
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+}
+  .email-input{
+      padding-left:10%;
+      padding-right:10%;
+  }
+.topmenu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: teal;
+    padding-bottom: 1%;
+    padding-top: 1%;
+
+}
+
+
+.health-btn {
+    background-color: lightsteelblue;
+    color:black;
+    font-weight: bold;
+    border-radius: 5%;
+    margin: 2%;
+    margin-left: 30%;
+    padding: 10%;
+    width: 80%;
+    height: 25%;
+    border: 0%;
+    background: teal;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    
+}
+.myBooks{
+    
+    background-color: lightsteelblue;
+    color:black;
+    font-weight: bold;
+    border-radius: 5%;
+    margin: 2%;
+    margin-left: 30%;
+    padding: 10%;
+    width: 80%;
+    height: 25%;
+    border: 0%;
+    background:yellow;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    
+
+
+}
+
+h3 {
+    font-style:normal;
+    font: small;
+margin-top: 0px;
+    
+    align-items: center;
+
+}
+
+.contact {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: small;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.btn {
+    border: none;
+
+}
+span{
+ 
+    color:black;
+    font-weight: bold;
+    border-radius: 5%;
+   
+    padding: 1%;
+    width: 80%;
+    height: 25%;
+    border: 0%;
+  
+    padding: 1%;
+}
+img{
+    padding:1%;
+}
+.problem-title{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.problem-subtitle{
+    display: flex;
+    align-items: center;
+}
+.quote-author{
+    display: flex;
+    align-items: center;
+}
+.book-div{
+   
+    padding-bottom: 3%;
+    border-bottom: 10%;
+    font-size: x-large;
+}
+
+.save{
+  
+    background-color: lightsteelblue;
+    color:black;
+    font-weight: bold;
+    border-radius: 5%;
+    margin: 3%;
+    padding: 1%;
+    width: 10%;
+    height: 25%;
+    border: 0%;
+    background: gold;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    font-size: large;
+    
+}
+.col-7{
+    margin-right:10%;
+}
+.user-form{
+    margin-left:5%;
+}
+.description{
+    font-size: x-small;
+    font-weight: lighter;
+    padding: 2%;}
+col, .s4{
+    margin-left: 10%;
+    
+}
+.s8{
+    margin-right: 2%;
+}
+.book-title{
+   padding-bottom: 5%;
+   
+  
+}
+.book-subtitle{
+    padding-bottom: 5%;
+    border-bottom: 1px solid #000
+}
+
+
+.remove{
+    background-color: lightsteelblue;
+    color:black;
+    font-weight: bold;
+    border-radius: 5%;
+    margin: 3%;
+    padding: 1%;
+    width: 15%;
+    height: 25%;
+    border: 0%;
+    background:crimson;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid transparent;
+    text-shadow: 0px 0px 0px transparent;
+    font-size: large;
+}
+@media only screen and (max-width: 1200px) {
+    .col-7{
+        margin-left:0%;
+            }
+   
+    .health-btn {
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        font-size: large;
+        background: teal;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    }
+    .myBooks{
+    
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        background:yellow;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    
+    
+    }
+    .email-input{
+        padding-left:0%;
+        padding-right:0%;
+    }
+}
+  @media only screen and (max-width: 1600px) {
+    .col-7{
+        margin-left:0%;
+            }
+   
+    .health-btn {
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        font-size: large;
+        background: teal;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    }
+    .myBooks{
+    
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        background:yellow;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    
+    
+    }
+    .email-input{
+        padding-left:0%;
+        padding-right:0%;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    .col-7{
+        margin-left:0%;
+            }
+   
+    .health-btn {
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        font-size: large;
+        background: teal;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    }
+    .myBooks{
+    
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        background:yellow;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    
+    
+    }
+    .email-input{
+        padding-left:0%;
+        padding-right:0%;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .col-7{
+        margin-left:0%;
+            }
+            .user-form{
+                margin-left:0%;
+            }
+    .health-btn {
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        font-size: large;
+        background: teal;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    }
+    .myBooks{
+    
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        background:yellow;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    
+    
+    }
+    .email-input{
+        padding-left:0%;
+        padding-right:0%;
+    }
+        
+    
+  }
+  @media screen and (max-width: 320px) {
+    .col-7{
+        margin-left:0%;
+            }
+            .user-form{
+                margin-left:0%;
+            }
+    .health-btn {
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        font-size: large;
+        background: teal;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    }
+    .myBooks{
+    
+        background-color: lightsteelblue;
+        color:black;
+        font-weight: bold;
+        border-radius: 5%;
+        margin: 2%;
+        margin-left: 0%;
+        padding: 10%;
+        width: 80%;
+        height: 25%;
+        border: 0%;
+        background:yellow;
+        box-shadow: 0px 0px 0px transparent;
+        border: 0px solid transparent;
+        text-shadow: 0px 0px 0px transparent;
+        
+    
+    
+    }
+    .user-form{
+        margin-left:0%;
+    }
+    .email-input{
+        padding-left:0%;
+        padding-right:0%;
+    }
+   
+    }
+
+    
+  
+
