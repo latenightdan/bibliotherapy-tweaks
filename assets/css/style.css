@@ -233,6 +233,9 @@ col, .s4{
     
     
     }
+    .myBooks:active{
+        background-color:darkgoldenrod;
+    }
     .email-input{
         padding-left:0%;
         padding-right:0%;
@@ -249,7 +252,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 15%;
+        margin-left: 10%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -268,7 +271,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 12%;
+        margin-left: 10%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -280,6 +283,9 @@ col, .s4{
         cursor: pointer
     
     
+    }
+    .myBooks:active{
+        background-color:darkgoldenrod;
     }
     .email-input{
         padding-left:0%;
@@ -320,7 +326,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 12%;
+        margin-left: 10%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -333,6 +339,9 @@ col, .s4{
         
     
     
+    }
+    .myBooks:active{
+        background-color:darkgoldenrod;
     }
     .email-input{
         padding-left:0%;
@@ -375,7 +384,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 15%;
+        margin-left: 10%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -387,6 +396,9 @@ col, .s4{
         cursor: pointer
     
     
+    }
+    .myBooks:active{
+        background-color:darkgoldenrod;
     }
     .email-input{
         padding-left:0%;
@@ -408,7 +420,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 15%;
+        margin-left: 10%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -431,7 +443,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 15%;
+        margin-left: 10%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -445,7 +457,7 @@ col, .s4{
     
     }
     .myBooks:active{
-        background-color: aquamarine;
+        background-color:darkgoldenrod;
     }
     .user-form{
         margin-left:0%;
