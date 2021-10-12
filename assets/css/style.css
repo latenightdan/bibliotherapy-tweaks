@@ -249,7 +249,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 0%;
+        margin-left: 15%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -259,7 +259,7 @@ col, .s4{
         box-shadow: 0px 0px 0px transparent;
         border: 0px solid transparent;
         text-shadow: 0px 0px 0px transparent;
-        
+        cursor: pointer
     }
     .myBooks{
     
@@ -268,7 +268,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 0%;
+        margin-left: 15%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -277,7 +277,7 @@ col, .s4{
         box-shadow: 0px 0px 0px transparent;
         border: 0px solid transparent;
         text-shadow: 0px 0px 0px transparent;
-        
+        cursor: pointer
     
     
     }
@@ -317,7 +317,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 10%;
+        margin-left: 15%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -369,7 +369,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 0%;
+        margin-left: 15%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -402,7 +402,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 10%;
+        margin-left: 15%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -422,7 +422,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 10%;
+        margin-left: 15%;
         padding: 10%;
         width: 80%;
         height: 25%;
