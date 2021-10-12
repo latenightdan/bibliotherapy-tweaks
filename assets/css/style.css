@@ -268,7 +268,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 15%;
+        margin-left: 12%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -310,6 +310,9 @@ col, .s4{
         cursor: pointer
         
     }
+    .health-btn:active{
+        background-color: aquamarine;
+    }
     .myBooks{
     
         background-color: lightsteelblue;
@@ -317,7 +320,7 @@ col, .s4{
         font-weight: bold;
         border-radius: 5%;
         margin: 2%;
-        margin-left: 15%;
+        margin-left: 12%;
         padding: 10%;
         width: 80%;
         height: 25%;
@@ -361,6 +364,9 @@ col, .s4{
         text-shadow: 0px 0px 0px transparent;
         cursor: pointer
         
+    }
+    .health-btn:active{
+        background-color: aquamarine;
     }
     .myBooks{
     
@@ -415,6 +421,9 @@ col, .s4{
         cursor: pointer
         
     }
+    .health-btn:active{
+        background-color: aquamarine;
+    }
     .myBooks{
     
         background-color: lightsteelblue;
@@ -434,6 +443,9 @@ col, .s4{
         cursor: pointer
     
     
+    }
+    .myBooks:active{
+        background-color: aquamarine;
     }
     .user-form{
         margin-left:0%;
